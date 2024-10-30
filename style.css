@@ -1,0 +1,28 @@
+#kiva_loans div{
+        padding-left:0px;
+}
+#kiva_loans h3{
+        margin: 0;
+}
+#kiva_loans img {
+        border: #272727 1px solid;
+        margin: 0 auto;
+}
+
+#kiva_loans img.kiva_logo {
+        border: none;
+        width: 120px;
+}
+
+#kiva_loans table {
+        padding: 0px;
+        margin: 0px;
+}
+
+#kiva_loans table td {
+        vertical-align: top;
+        border: none;
+}
+#loans {
+        padding-left:0px;        
+}
